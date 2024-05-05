@@ -1,6 +1,6 @@
 
 
-public class Courses {
+public class Ceourses {
 
 private String subject;
 private int section;
